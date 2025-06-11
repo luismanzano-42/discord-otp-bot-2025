@@ -12,5 +12,5 @@
 * *VISA*
 * *ETC*
 
-# msg luis or join on the dxrk gen server community to ask 
-**https://discord.gg/dxrkgen**
+# msg luis or join on the zap gen server community to ask 
+**https://discord.gg/zapgen**
